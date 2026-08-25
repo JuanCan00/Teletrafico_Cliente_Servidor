@@ -1,8 +1,8 @@
-# 🔎 ANÁLISIS DE GOOGLE
+# 🔎 ANÁLISIS DE SERVIDOR MINECRAFT
 
 <p align="center">
 
-![GitHub repo](https://img.shields.io/badge/GitHub-Analisis--Google-black?style=for-the-badge&logo=github)
+![GitHub repo](https://img.shields.io/badge/GitHub-Analisis--PAPERMC-black?style=for-the-badge&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 
