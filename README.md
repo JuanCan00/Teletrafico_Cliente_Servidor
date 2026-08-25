@@ -14,7 +14,7 @@
 
 ## 📌 DESCRIPCIÓN
 
-Este proyecto tiene como finalidad realizar un **análisis de datos relacionado con Google**, utilizando herramientas de programación, procesamiento de información y visualización de datos.
+Este proyecto tiene como finalidad realizar un **análisis de datos a partir de capturas de trafico**, utilizando herramientas de programación, procesamiento de información y visualización de datos.
 
 El proyecto sigue un flujo de trabajo basado en:
 
